@@ -48,7 +48,11 @@ Insights have been discussed in 'Summary.ipynb'
 
 # Future Work
 
-To-Do - Suggest tasks you might include in future work to make this project more robust.
+A survey to 
+- Determine the age range of customers.
+- Occupation of customers.
+- Feedback of customers.
+
 
 # Standout Section
 
