@@ -6,7 +6,7 @@ Company XYZ owns a supermarket chain across the country. Each major branch locat
 
 # Project Steps
 
-## Step 1 Loading the Dataset
+## Step 1 - Loading the Dataset
 - Using the python `glob` module, collect the needed csv file by matching patterns and append to a list. 
 - After using the pandas concat method combine the 3 csv's into a single csv then export to a csv file with a name of your choosing.
 
@@ -42,8 +42,9 @@ Experiment and explore with various plots such as `countplot`, `boxplot`, `catpl
 - A boxplot of the rating accross the 3 branches.
 - A catplot Product line per unit price, and Product line per Quantity.
 
-# Insights
 
+# Insights
+Insights have been discussed in 'Summary.ipynb'
 
 # Future Work
 
@@ -51,7 +52,7 @@ To-Do - Suggest tasks you might include in future work to make this project more
 
 # Standout Section
 
-To-Do - Explain what you did differently in the project following the instructions in the notebook.
+Carried out more analysis to determine relationships and patterns among variables in the dataset through more visualizations (lineplots and catplot)
 
 # Executive Summary.
 
