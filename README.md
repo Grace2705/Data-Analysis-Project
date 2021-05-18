@@ -48,7 +48,7 @@ Insights have been discussed in 'Summary.ipynb'
 
 # Future Work
 
-A survey to determine the:
+- A survey to determine the:
     - Age range of customers.
     - Occupation of customers.
     - Feedback of customers.
