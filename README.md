@@ -48,15 +48,17 @@ Insights have been discussed in 'Summary.ipynb'
 
 # Future Work
 
-A survey to 
-- Determine the age range of customers.
-- Occupation of customers.
-- Feedback of customers.
+A survey to determine the:
+    - Age range of customers.
+    - Occupation of customers.
+    - Feedback of customers.
+    - Suggestions from customers.
+- A profit and loss column
 
 
 # Standout Section
 
-Carried out more analysis to determine relationships and patterns among variables in the dataset through more visualizations (lineplots and catplot)
+Carried out more analysis to determine relationships and patterns among features in the dataset through more visualizations (lineplots and catplot).
 
 # Executive Summary.
 
